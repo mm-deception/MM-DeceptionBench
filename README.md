@@ -6,7 +6,7 @@
 
 [![Paper](https://img.shields.io/badge/📄_Paper-arXiv-red)](https://arxiv.org/abs/)
 [![Homepage](https://img.shields.io/badge/🏠_Homepage-mm--deception.github.io-purple)](https://mm-deception.github.io)
-[![Code](https://img.shields.io/badge/💻_Code-GitHub-black)](https://github.com/mm-deception/multimodal-deception)
+[![Code](https://img.shields.io/badge/💻_Code-GitHub-black)](https://github.com/mm-deception/debate-with-images)
 [![Dataset](https://img.shields.io/badge/🤗_Dataset-MM--DeceptionBench-blue)](https://github.com/mm-deception/MM-DeceptionBench/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
