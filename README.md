@@ -4,7 +4,7 @@
 
 ### A Multimodal Benchmark for Evaluating Deceptive Behaviors in Vision-Language Models
 
-[![Paper](https://img.shields.io/badge/📄_Paper-arXiv-red)](https://arxiv.org/abs/)
+[![Paper](https://img.shields.io/badge/📄_Paper-arXiv-red)](https://arxiv.org/abs/2512.00349)
 [![Homepage](https://img.shields.io/badge/🏠_Homepage-mm--deception.github.io-purple)](https://mm-deception.github.io)
 [![Code](https://img.shields.io/badge/💻_Code-GitHub-black)](https://github.com/mm-deception/debate-with-images)
 [![Dataset](https://img.shields.io/badge/🤗_Dataset-MM--DeceptionBench-blue)](https://github.com/mm-deception/MM-DeceptionBench/)
